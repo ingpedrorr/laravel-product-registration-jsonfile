@@ -11,7 +11,7 @@
 
 ## Preview of the project
 
-<img src="https://ibb.co/jX1XuS" alt="Preview" />
+<img src="https://image.ibb.co/hMrAg7/Screen_Shot_2018_05_04_at_2_12_01_AM.png" alt="Preview" />
 
 
 ## RUN LARAVEL
