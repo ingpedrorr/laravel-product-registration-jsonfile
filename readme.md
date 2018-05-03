@@ -8,6 +8,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## Preview of the project
+
+<img src="https://ibb.co/jX1XuS" alt="Preview" />
+
+
 ## RUN LARAVEL
 
 ```sh
